@@ -1,32 +1,32 @@
 @font-face {
     font-family: 'instalogoold';
-    src: url('./fonts/Fontspring-DEMO-blue_vinyl_regular_ps_ot.otf');
+    src: url('fonts/Fontspring-DEMO-blue_vinyl_regular_ps_ot.otf');
 }
 
 @font-face {
     font-family: 'instalogooldbold';
-    src: url('./fonts/Fontspring-DEMO-blue_vinyl_bold_ps_ot.otf');
+    src: url('fonts/Fontspring-DEMO-blue_vinyl_bold_ps_ot.otf');
 }
 
 @font-face {
     font-family: 'instalogo';
-    src: url('./fonts/Billabong.ttf');
+    src: url('fonts/Billabong.ttf');
 }
 
 @font-face {
     font-family: 'instasans';
-    src: url('./fonts/InstagramSans-Regular.ttf');
+    src: url('fonts/InstagramSans-Regular.ttf');
 }
 
 @font-face {
     font-family: 'instasansmedium';
-    src: url('./fonts/InstagramSans-Medium.ttf');
+    src: url('fonts/InstagramSans-Medium.ttf');
 }
 
 
 @font-face {
     font-family: 'instasanslight';
-    src: url('./fonts/InstagramSans-Light.ttf');
+    src: url('fonts/InstagramSans-Light.ttf');
 }
 
 
